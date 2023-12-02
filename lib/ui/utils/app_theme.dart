@@ -31,5 +31,5 @@ abstract class AppTheme {
       ),
     )
   );
-  static ThemeData darkTheme = ThemeData();
+ static ThemeData darkTheme = ThemeData();
 }
